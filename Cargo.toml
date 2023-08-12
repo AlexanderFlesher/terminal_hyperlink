@@ -1,0 +1,14 @@
+[package]
+authors = ["Alexander Flesher"]
+name = "terminal_hyperlink"
+description = "Uses a trait to style text with hyperlink escape codes in rust."
+categories = ["terminal"]
+repository = "https://github.com/AlexanderFlesher/terminal_hyperlink"
+license = "MIT"
+readme = "README.md"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
